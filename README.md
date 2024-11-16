@@ -1,6 +1,6 @@
 # C-Compiler
-MicroC : évaluation d'expression.
-MegaC : compilateur C.
+- MicroC : évaluation d'expression.
+- MegaC : compilateur C.
 
 # Fonctionalités
 
