@@ -7,7 +7,7 @@ MegaC : compilateur C.
 # Tests
 
 # Auteurs
-CÔTE Tancrède 
-DAHER Sarah
-FOUCHER Yannis
-VIDAL Thomas
+- CÔTE Tancrède 
+- DAHER Sarah
+- FOUCHER Yannis
+- VIDAL Thomas
